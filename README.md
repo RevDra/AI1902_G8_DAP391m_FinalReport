@@ -102,5 +102,3 @@ Open `HTRU2.ipynb` using Jupyter Notebook or VS Code and run the cells sequentia
 * Semester: Spring 2026
 
 *If you find this project helpful or interesting, please consider giving it a ⭐️!*
-
-Bản tiếng Anh này vẫn giữ trọn vẹn sự đanh thép trong lập luận và bố cục trình bày rành mạch. Chúc dự án của bạn thu hút được nhiều sự chú ý trên GitHub!
